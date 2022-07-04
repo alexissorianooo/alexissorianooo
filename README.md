@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Contact me on <a href="https://www.linkedin.com/in/alexis-justin-soriano-a075071b5/"> LinkedIn </a>
+Contact me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn </a>
 <!--
 **alexissorianooo/alexissorianooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
