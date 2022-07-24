@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
-Contact me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn </a>
-![Linkedin](https://www.linkedin.com/in/alexissorianooo/)
+ 💻 Connect with me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn</a>.
+
 <br>
 ![Codewars](https://github-readme-codewars-stats.herokuapp.com/api/?username=alexissorianooo&badge&alias_only&colormode=bright_mode)
 <!-- ![Codewars](https://github.r2v.ch/codewars?user=alexissorianooo&stroke=%23F9E8FF) -->
