@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 Contact me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn </a>
+
+CodeWars:
+https://www.codewars.com/users/alexissorianooo/badges/large
+
+LeetCode:
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexissorianooo?theme=unicorn&font=Inter)
 <!--
 **alexissorianooo/alexissorianooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
