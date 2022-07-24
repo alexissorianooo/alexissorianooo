@@ -2,11 +2,13 @@
 
 Contact me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn </a>
 
-CodeWars:
+CodeWars: <br>
 ![Codewars](https://github.r2v.ch/codewars?user=alexissorianooo&stroke=%23F9E8FF)
 
-LeetCode:
+LeetCode: <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alexissorianooo?theme=unicorn&font=Inter)
+
+
 <!--
 **alexissorianooo/alexissorianooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
