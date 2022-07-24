@@ -3,10 +3,11 @@
 Contact me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn </a>
 
 CodeWars: <br>
-![Codewars](https://github.r2v.ch/codewars?user=alexissorianooo&stroke=%23F9E8FF)
+https://github-readme-codewars-stats.herokuapp.com/api/?username=alexissorianooo&badge&colormode=dark_mode
+<!-- ![Codewars](https://github.r2v.ch/codewars?user=alexissorianooo&stroke=%23F9E8FF) -->
 
-LeetCode: <br>
-![LeetCode Stats](https://leetcard.jacoblin.cool/alexissorianooo?theme=unicorn&font=Inter)
+<!-- LeetCode: <br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/alexissorianooo?theme=unicorn&font=Inter) -->
 
 
 <!--
