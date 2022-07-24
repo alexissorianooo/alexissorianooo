@@ -3,7 +3,7 @@
 Contact me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn </a>
 
 CodeWars:
-https://www.codewars.com/users/alexissorianooo/badges/large
+![Codewars](https://github.r2v.ch/codewars?user=alexissorianooo&stroke=%23F9E8FF)
 
 LeetCode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alexissorianooo?theme=unicorn&font=Inter)
