@@ -4,7 +4,7 @@
 
 <br>
 <img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=alexissorianooo&badge&alias_only&colormode=bright_mode">
-<!-- ![Codewars](https://github.r2v.ch/codewars?user=alexissorianooo&stroke=%23F9E8FF) -->
+<!-- ![Codewars](https://www.codewars.com/users/alexissorianooo/badges/small) -->
 
 <!-- LeetCode: <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alexissorianooo?theme=unicorn&font=Inter) -->
