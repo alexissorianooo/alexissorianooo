@@ -3,7 +3,7 @@
  💻 Connect with me on <a href="https://www.linkedin.com/in/alexissorianooo/"> LinkedIn</a>.
 
 <br>
-<img src="https://github-readme-codewars-stats.herokuapp.com/api/?username=alexissorianooo&badge&alias_only&colormode=bright_mode">
+<img src="https://www.codewars.com/users/alexissorianooo/badges/small">
 <!-- ![Codewars](https://www.codewars.com/users/alexissorianooo/badges/small) -->
 
 <!-- LeetCode: <br>
